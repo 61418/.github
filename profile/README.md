@@ -1,6 +1,6 @@
 ## What is 61418?
 
-61418 is an open-source foundation born February 24th, 2026.
+61418 is an independent open-source foundation born February 24th, 2026.
 
 It was founded by [Mike Letts](https://www.linkedin.com/in/lettsmichael/) in order to bring together software engineers who build and maintain open-source software which enhance the AWS Python SDK and general AWS ecosystem under one roof.
 
