@@ -1,4 +1,4 @@
-![61418 logo](https://raw.githubusercontent.com/61418/logos/main/assets/solid/a2_og.png)
+![61418 logo](https://raw.githubusercontent.com/61418/logos/main/assets/solid/e0_og.png)
 
 ## What is 61418?
 
