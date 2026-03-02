@@ -1,5 +1,3 @@
-![61418 logo](https://raw.githubusercontent.com/61418/logos/main/assets/solid/e0_og.png)
-
 ## What is 61418?
 
 61418 is an **independent open-source software collective** born February 24th, 2026.
