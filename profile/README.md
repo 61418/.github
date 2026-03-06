@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/61418/logos/refs/heads/main/assets/transparent/d3062f_header.png"
-    alt="61418"
-  />
-</p>
-  
 61418 is an **independent open-source software collective** born February 24th, 2026.
 
 It was founded by [Mike Letts](https://www.github.com/michaelthomasletts) (AWS Community Builder) in order to bring together software engineers who build and maintain **open-source software which enhance the AWS Python SDK and general AWS ecosystem**.
